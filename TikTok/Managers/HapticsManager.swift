@@ -13,7 +13,7 @@ final class HapticsManager{
     
     private init() {}
     
-    //Publicsxaj
+    //Public
     
     public func vibrateForSelection(){
         DispatchQueue.main.async {
